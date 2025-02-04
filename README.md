@@ -33,7 +33,7 @@ I’m currently pursuing a **B.Tech in CSE (AI & ML)** at **Malla Reddy Universi
 - **2nd Place** in **Intellithon-2K24** at Malla Reddy University  
 
 ## 📊 GitHub Stats  
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhanush96&show_icons=true&theme=tokyonight)  
 
 ## 🚀 Let's Connect!  
 💬 Feel free to reach out for collaborations, project discussions, or just to say hi!  
